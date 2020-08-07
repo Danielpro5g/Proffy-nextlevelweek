@@ -35,7 +35,7 @@
   box-sizing: border-box;
 }
 
-#container {
+#page-landing #container {
   width: 90vw;
   max-width: 700px;
 }
